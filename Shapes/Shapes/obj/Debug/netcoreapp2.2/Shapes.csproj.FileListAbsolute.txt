@@ -1,0 +1,9 @@
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.deps.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.pdb

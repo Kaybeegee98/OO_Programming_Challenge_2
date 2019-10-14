@@ -1,0 +1,13 @@
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\ShapeCreation.deps.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\ShapeCreation.runtimeconfig.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\ShapeCreation.runtimeconfig.dev.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\ShapeCreation.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\ShapeCreation.pdb
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\obj\Debug\netcoreapp2.2\ShapeCreation.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\obj\Debug\netcoreapp2.2\ShapeCreation.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\obj\Debug\netcoreapp2.2\ShapeCreation.AssemblyInfo.cs
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\obj\Debug\netcoreapp2.2\ShapeCreation.csproj.CopyComplete
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\obj\Debug\netcoreapp2.2\ShapeCreation.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\ShapeCreation\obj\Debug\netcoreapp2.2\ShapeCreation.pdb

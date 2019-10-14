@@ -1,0 +1,17 @@
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.csprojAssemblyReference.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.AssemblyInfo.cs
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NShapesUnitTest.deps.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NShapesUnitTest.runtimeconfig.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NShapesUnitTest.runtimeconfig.dev.json
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NShapesUnitTest.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\NShapesUnitTest.pdb
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.csproj.CopyComplete
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.dll
+C:\Users\kaybe\Documents\GitHub\OO_Programming_Challenge_2\Shapes\NShapesUnitTest\obj\Debug\netcoreapp2.2\NShapesUnitTest.pdb
